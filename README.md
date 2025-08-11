@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiahmad30
-- 👀 I’m interested in Flutter, Dart, Electrical Engineering.
-- 🌱 I’m currently learning Python, Flask.
+- 👀 I’m Working in Flutter, Dart, Cross-platform Apps.
+- 🌱 I’m currently learning SwiftUI, Swift for Apple watch Dev.
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me : ahmadjaved6161@gmail.com
 <!---
